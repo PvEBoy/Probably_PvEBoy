@@ -1,0 +1,10 @@
+## Interface: 60200
+## Title: Probably - PvEBoy
+## Notes: ProbablyEngine Custom Rotation
+
+## Dependencies: Probably
+
+Druid\Feral.lua
+Hunter\Marksmanship.lua
+Mage\Arcane.lua
+Warlock\Affliction.lua
