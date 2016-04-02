@@ -83,6 +83,8 @@ ProbablyEngine.rotation.register_custom(103, "|cffFF7D0APvEBoy|r - |cffFF7D0AFer
 
 -- Pause --
 
+{ "pause", "modifier.lcontrol" },
+
 -- Pet --
 
 -- Buff --
